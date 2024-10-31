@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "llm"
+		}
+	],
+	"settings": {
+		"C_Cpp.errorSquiggles": "enabled"
+	}
+}
